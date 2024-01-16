@@ -1,0 +1,40 @@
+#first-col{
+  color: white;
+  background-color: #848695;
+  margin-top: 20px;
+  text-align: end;
+  height: 60px;
+  font-size: 35px;
+ 
+}
+
+.style-row{
+  display: flex;
+  flex-direction: row;
+}
+
+.style-column{
+  border: 1px solid #c4c4c9;
+  background-color:#e0e0e0 ;
+  height: 40px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  justify-content: center;
+  align-content: center;
+
+}
+
+.style-columnorange{
+  border: 1px solid #c4c4c9;
+  border-top: transparent;
+  /* border-bottom: transparent; */
+  color: white;
+  background-color:#f5923d ;
+  text-align: center;
+  height: 40px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+/* color  deepgray- #848695; orange- #f5923d; lightgray: #e0e0e0; bordercolor-#c4c4c9 */
